@@ -1,0 +1,5 @@
+D:\My_Project_Dev\Visua\ServiceChungKhoan\ServiceChungKhoan\bin\ServiceChungKhoan.dll
+D:\My_Project_Dev\Visua\ServiceChungKhoan\ServiceChungKhoan\bin\ServiceChungKhoan.pdb
+D:\My_Project_Dev\Visua\ServiceChungKhoan\ServiceChungKhoan\obj\Debug\ResolveAssemblyReference.cache
+D:\My_Project_Dev\Visua\ServiceChungKhoan\ServiceChungKhoan\obj\Debug\ServiceChungKhoan.dll
+D:\My_Project_Dev\Visua\ServiceChungKhoan\ServiceChungKhoan\obj\Debug\ServiceChungKhoan.pdb
